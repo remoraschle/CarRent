@@ -24,9 +24,7 @@ Anforderungs Übersicht
 | 8 | System | Anhand der Mietdauer müssen die Gesamkosten bestimmt werden  |
 | 9 | System | Fahrzeuge besitzen die folgenden Infos (Marke, Typ, UID und Fahrzeug Kategorie) |
 | 10 | System | Fahrzeug Kategorien haben einen Tagespreis |
-| 11 | Kunde |  |
-| 12 |  |  |
-| 13 |  |  |
-| 14 |  |  |
-| 15 |  |  |
-| 16 |  |  |
+| 11 | Kunde | Kunden erhalten bei einer Abgeschlossen Reservation eine Reservationsnummer |
+| 12 | Kunde | Kunden sehen vor dem Abschliessen der Reservation die Gesamkosten |
+| 13 | Kunde | Kunden müssen für einen Reservation Start und End Datum angeben |
+| 14 | Kunde | Kunden können Fahrzeuge nach der Fahrzeug Kategorie suchen |
