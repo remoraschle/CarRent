@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T17:07:32.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" version="20.3.0" etag="onLfRRam1MshjAUQsSHM" type="github"><diagram id="pdI0stnRr088DtoU7AfP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-11T17:09:40.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="tzzplzWp3t4QXOlVuB5G" version="20.3.0" type="github">
+  <diagram id="pdI0stnRr088DtoU7AfP" name="Seite-1">
+    <mxGraphModel dx="648" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-1" value="&lt;u&gt;Kubernetes&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="600" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-8" value="HTTP/Json" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;entryX=0.458;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zYm5-CoeRs2mEI7aIwj8-2" target="zYm5-CoeRs2mEI7aIwj8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-9" value="SQL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=95;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=85;entryPerimeter=0;" edge="1" parent="1" source="zYm5-CoeRs2mEI7aIwj8-2" target="zYm5-CoeRs2mEI7aIwj8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-2" value=".Net Runtime Container" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-3" value=".Net Runtime Container" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-4" value="Database" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-5" value="SQL DB" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-6" value="Car Rent (API)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYm5-CoeRs2mEI7aIwj8-7" value="Razzor Frontend" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
