@@ -1,6 +1,4 @@
 # CarRent
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=remoraschle_CarRent&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=remoraschle_CarRent)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=remoraschle_CarRent&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=remoraschle_CarRent)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=remoraschle_CarRent&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=remoraschle_CarRent)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=remoraschle_CarRent&metric=coverage)](https://sonarcloud.io/summary/new_code?id=remoraschle_CarRent)

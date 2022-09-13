@@ -8,5 +8,5 @@
 - [Deployment View](views/Deployment.md)
 - [Logical View](views/Logical.md)
 - [Quality Requirements](Quality_Requirements.md)
-- [Testing and Metrics](Testing.md)
+- [Testing and Metrics](Metrics.md)
 - [Glossary](Glossary.md)
