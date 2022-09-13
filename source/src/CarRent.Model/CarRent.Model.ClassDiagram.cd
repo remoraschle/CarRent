@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarRent.Model.CarManagement.Application.CarClassDto" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CarManagement\Application\CarClassDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Model.CarManagement.Application.CarDto" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACgAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAABAAA=</HashCode>
+      <FileName>CarManagement\Application\CarDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Model.CarManagement.Domain.Car" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAABAAA=</HashCode>
+      <FileName>CarManagement\Domain\Car.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarRent.Model.CarManagement.Domain.CarClass" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CarManagement\Domain\CarClass.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarRent.Model.CustomerManagement.Application.CustomerDto" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAABIAAAACAAAAAIAAAAAAEIAAAAAAAA=</HashCode>
+      <FileName>CustomerManagement\Application\CustomerDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Model.CustomerManagement.Application.ZipCodeDto" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerManagement\Application\ZipCodeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Model.CustomerManagement.Domain.Customer" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAABIAAAACAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>CustomerManagement\Domain\Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarRent.Model.CustomerManagement.Domain.ZipCode" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerManagement\Domain\ZipCode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarRent.Model.ReservationManagement.Application.ReservationDto" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAEAEACAAAAABAAAAAACQAAAAAhAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReservationManagement\Application\ReservationDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Model.ReservationManagement.Domain.Reservation" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMCAAAEACQAAAAAAAAAAACQAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReservationManagement\Domain\Reservation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CarRent.Model.Common.Interfaces.IEntity&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Interfaces\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CarRent.Model.CarManagement.Domain.CarClassType" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACEAAA=</HashCode>
+      <FileName>CarManagement\Domain\CarClass.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CarRent.Model.ReservationManagement.Domain.ReservationStatus" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReservationManagement\Domain\Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

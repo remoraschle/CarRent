@@ -1,10 +1,15 @@
-Deployment View 
+# Deployment View 
 ===============
 
-Infrastructure Level 1
+## Infrastructure Level 1
 ----------------------
 ![Deploy-View-Infra.drawio](./../img/Deploy-View-Infra.drawio.png)
 
-Class Diagram
+## Class Diagram
 ----------------------
-TODO Export from Visal Studio
+
+### CarRent.Model
+![CarRent.Model.ClassDiagram](./../img/CarRent.Model.ClassDiagram.png)
+
+### CarRent.Backend
+![CarRent.Backend.ClassDiagram](./../img/CarRent.Backend.ClassDiagram.png)
